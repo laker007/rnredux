@@ -1,1 +1,1 @@
-echo "# rnredux" >> README.md
+the easist redux demo
