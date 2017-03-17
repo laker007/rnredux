@@ -27,9 +27,11 @@ const styles = StyleSheet.create({
     input: {
         justifyContent: 'center',
         borderWidth: 1,
-        borderColor: '#f00',
+        borderColor: '#000',
+        margin:10,
+        padding:10,
         height: 50,
         width: 300,
-        fontSize:12,
+        fontSize:15,
     }
 })
