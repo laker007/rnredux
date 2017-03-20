@@ -14,3 +14,5 @@ Install dependencies :
 
 Run Simulator :
 > react-native run-ios
+
+It only works for IOS,Android Platform is coming~~~
